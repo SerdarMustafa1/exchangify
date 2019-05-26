@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "css-loader": "^2.1.0",
+    "eslint": "^5.14.0",
+    "inline-manifest-webpack-plugin": "^4.0.2",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "parcel-bundler": "^1.12.3",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "1.1.6"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "js": "^0.1.0",
+    "moment": "^2.24.0",
+    "src": "^1.1.2"
+  }
+}
