@@ -2,7 +2,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "css-loader": "^2.1.0",
-    "eslint": "^5.14.0",
+    "eslint": "^9.32.0",
     "inline-manifest-webpack-plugin": "^4.0.2",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "parcel-bundler": "^1.12.3",
